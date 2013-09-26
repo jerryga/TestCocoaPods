@@ -1,0 +1,30 @@
+PODS:
+  - AFNetworking (0.7.0):
+    - JSONKit
+  - FormatterKit (1.2.1):
+    - FormatterKit/AddressFormatter
+    - FormatterKit/ArrayFormatter
+    - FormatterKit/LocationFormatter
+    - FormatterKit/OrdinalNumberFormatter
+    - FormatterKit/TimeIntervalFormatter
+    - FormatterKit/UnitOfInformationFormatter
+    - FormatterKit/URLRequestFormatter
+  - FormatterKit/AddressFormatter (1.2.1)
+  - FormatterKit/ArrayFormatter (1.2.1)
+  - FormatterKit/LocationFormatter (1.2.1)
+  - FormatterKit/OrdinalNumberFormatter (1.2.1)
+  - FormatterKit/TimeIntervalFormatter (1.2.1)
+  - FormatterKit/UnitOfInformationFormatter (1.2.1)
+  - FormatterKit/URLRequestFormatter (1.2.1)
+  - JSONKit (1.5pre)
+
+DEPENDENCIES:
+  - AFNetworking (~> 0.7.0)
+  - FormatterKit
+
+SPEC CHECKSUMS:
+  AFNetworking: 7bf22b0ed1d9068909cd67206db78204eb63dd2c
+  FormatterKit: 43c6567e367a872196747fda0c26395c37bd7dd6
+  JSONKit: 409734ab3407fce90ef7eaa95d7168f38d9a6601
+
+COCOAPODS: 0.25.0
